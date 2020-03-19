@@ -22,12 +22,12 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/Lumberyard/horizontal/lumberyard-horizontal-color.png" width="200"></td>
-        <td><img src="/Lumberyard/stacked/lumberyard-stacked-color.png" width="95"></td>
-        <td><img src="/Lumberyard/icon/lumberyard-icon-color.png" width="75"></td>
-        <td><img src="/Lumberyard/horizontal/lumberyard-horizontal-color.svg" width="200"></td>
-        <td><img src="/Lumberyard/stacked/lumberyard-stacked-color.svg" width="95"></td>
-        <td><img src="/Lumberyard/icon/lumberyard-icon-color.svg" width="75"></td>
+        <td><img src="/Lumberyard/horizontal/color/lumberyard-horizontal-color.png" width="200"></td>
+        <td><img src="/Lumberyard/stacked/color/lumberyard-stacked-color.png" width="95"></td>
+        <td><img src="/Lumberyard/icon/color/lumberyard-icon-color.png" width="75"></td>
+        <td><img src="/Lumberyard/horizontal/color/lumberyard-horizontal-color.svg" width="200"></td>
+        <td><img src="/Lumberyard/stacked/color/lumberyard-stacked-color.svg" width="95"></td>
+        <td><img src="/Lumberyard/icon/color/lumberyard-icon-color.svg" width="75"></td>
     </tr>
 </table>
 
