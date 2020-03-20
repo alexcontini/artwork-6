@@ -56,7 +56,7 @@
         <td><img src="/Lumberyard Foundation/horizontal/color/lumberyardfoundation-horizontal-color.png" width="200"></td>
         <td><img src="/Lumberyard Foundation/stacked/color/lumberyardfoundation-stacked-color.png" width="95"></td>
         <td><img src="/Lumberyard Foundation/icon/color/lumberyardfoundation-icon-color.png" width="75"></td>
-        <td><img src="/Lumberyard/horizontal/color/lumberyardfoundation-horizontal-color.svg" width="200"></td>
+        <td><img src="/Lumberyard Foundation/horizontal/color/lumberyardfoundation-horizontal-color.svg" width="200"></td>
         <td><img src="/Lumberyard Foundation/stacked/color/lumberyardfoundation-stacked-color.svg" width="95"></td>
         <td><img src="/Lumberyard Foundation/icon/color/lumberyardfoundation-icon-color.svg" width="75"></td>
     </tr>
